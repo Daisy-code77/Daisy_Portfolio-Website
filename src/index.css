@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #030014;
+    color: white;
+  }
+}
+
+@layer utilities {
+  .glow-effect {
+    box-shadow: 0 0 20px rgba(167, 139, 250, 0.15);
+  }
+  .hover-glow:hover {
+    box-shadow: 0 0 25px rgba(167, 139, 250, 0.3);
+  }
+}
