@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="mb-8 flex justify-center">
           <div className="relative w-40 h-40 rounded-full p-1 bg-gradient-to-r from-primary to-purple-800">
             <img 
-              src="https://ui-avatars.com/api/?name=Daisy+R&background=0F172A&color=A78BFA&size=200" 
+              src="https://image2url.com/r2/default/images/1773908991550-60ebb003-ea72-43b4-ad3d-838e313d1bc4.jpeg" 
               alt="Daisy R" 
               className="w-full h-full object-cover rounded-full border-4 border-[#030014]"
             />
