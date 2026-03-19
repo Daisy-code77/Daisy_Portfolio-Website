@@ -1,4 +1,5 @@
 import Navbar from './components/Navbar';
+// Project: Daisy Portfolio Website - Reconstructed with Vite + React
 import Hero from './components/Hero';
 import Skills from './components/Skills';
 import Experience from './components/Experience';
